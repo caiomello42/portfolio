@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Reddit+Sans:ital,wght@0,200..900;1,200..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Reddit+Sans:ital,wght@0,200..900;1,200..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+}
+
+nav {
+    text-align: right;
+    padding-right: 30px;
+}
+
+li {
+    display: inline-block;
+    padding: 20px;
+    text-decoration: none;    
+}
+
+a {
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+
+a:hover {
+    color: rgba(151, 204, 230, 0.897);
+    transition: 0.2s;
+}
+
+.bem-vindo {
+    padding-top: 80px;
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(68, 214, 76);
+}
+
+h2 {
+    padding-top: 10px;
+    color: #C2C4C3;
+    font-size: 50px;
+    padding-left: 70px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    
+}
+
+.dev {
+    padding-left: 70px;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal
+}
+
+h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal; 
+    color: white;
+    padding-left: 70px;
+    padding-top: 50px;
+    width: 1000px;
+}
+
+.social {
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+
+
